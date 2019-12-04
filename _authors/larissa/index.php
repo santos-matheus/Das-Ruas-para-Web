@@ -83,7 +83,7 @@
                                                     <li class="list-group-item">Artista, Pintor, Desenhista</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    <img src="../../_images/anderson/icon.png" alt="" />
+                                                    
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas1">Saiba mais</a>
                                                 </div>
                                             </div>
@@ -105,7 +105,7 @@
                                                     <li class="list-group-item">Artivista, Artista de rua, Desenhista e Grafiteiro</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    <img src="../../_images/anderson/icon.png" alt="" />
+                                                    
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas2">Saiba mais</a>
                                                 </div>
                                             </div>
@@ -128,7 +128,7 @@
                                                     <li class="list-group-item">Artista de rua e Desenhista</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    <img src="../../_images/anderson/icon.png" alt="" />
+                                                 
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas3">Saiba mais</a>
                                                 </div>
                                             </div>
@@ -140,8 +140,8 @@
                                                     <img src="../../_images/larissa/cricaperfil.jpg" alt="Crica" class="img-fluid">
                                                 </div>
                                                 <div class="card-body">
-                                                    <h2 class="card-title font-weight-bold">Crica Monteiro</h2>
-                                                    <h3 class="card-subtitle mb-2 text-muted">Cristiane Monteiro</h3>
+                                                    <h3 class="card-title font-weight-bold">Crica Monteiro</h3>
+                                                    <h4 class="card-subtitle mb-2 text-muted">Cristiane Monteiro</h4>
                                                     <p class="card-text">Comecou a grafitar ainda na adolescência e hoje é ilustratoda na MSP.</p>
                                                 </div>
                                                 <ul class="list-group list-group-flush">
@@ -149,7 +149,7 @@
                                                     <li class="list-group-item">Designer, Ilustradora e Grafiteira.</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    <img src="../../_images/anderson/icon.png" alt="" />
+                                                 
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas4">Saiba mais</a>
                                                 </div>
                                             </div>
